@@ -1,2 +1,2 @@
 # Backend_Interview
-## [Java] (https://github.com/Suwon-Park/Backend_Interview/tree/main/Java)
+## [Java](https://github.com/Suwon-Park/Backend_Interview/tree/main/Java)
