@@ -1,2 +1,2 @@
 # Backend_Interview
-## [Java] (링크)
+## [Java] (https://github.com/Suwon-Park/Backend_Interview/tree/main/Java)
